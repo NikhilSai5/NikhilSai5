@@ -1,5 +1,8 @@
 # 💫 About Me:
-What I Work On:<br>Web Development: React, Node.js, Express, Prisma, PostgreSQL<br>Blockchain & Web3: Solidity, Ether.js, Alchemy API<br>AI/ML: Python, OpenCV, Langchain<br>Cloud Computing: AWS Certified Cloud Practitioner<br><br>Currently Exploring:<br>Federated Learning with blockchain <br>Smart Contracts & Decentralized Apps (DApps)<br>AI-driven Computer Vision Applications
+### What I Work On:
+Web Development: React, Node.js, Express, Prisma, PostgreSQL<br>Blockchain & Web3: Solidity, Ether.js, Alchemy API<br>AI/ML: Python, OpenCV, Langchain<br>Cloud Computing: AWS Certified Cloud Practitioner<br><br>
+### Currently Exploring:
+Federated Learning with blockchain <br>Smart Contracts & Decentralized Apps (DApps)<br>AI-driven Computer Vision Applications
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-sai-manam/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29412577/nikhil-sai-manam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nikhi23501) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/nikhil_sai_40a3a8682affa6) [![Codeforces](https://img.shields.io/badge/Codeforces-%23150458.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ghost056)
