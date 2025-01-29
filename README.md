@@ -12,8 +12,8 @@ What I Work On:<br>Web Development: React, Node.js, Express, Prisma, PostgreSQL<
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NikhilSai5&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilSai5&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NikhilSai5&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NikhilSai5&limit=5&theme=dark&combine_all_yearly_contributions=true)
