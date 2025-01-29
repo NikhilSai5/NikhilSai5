@@ -1,5 +1,5 @@
 # 💫 About Me:
-What I Work On:<br><br>Web Development: React, Node.js, Express, Prisma, PostgreSQL<br>Blockchain & Web3: Solidity, Ether.js, Alchemy API<br>AI/ML: Python, OpenCV,  Langchain<br>Cloud Computing: AWS Certified Cloud Practitioner<br><br>Currently Exploring:<br><br>Federated Learning with blockchain <br>Smart Contracts & Decentralized Apps (DApps)<br>AI-driven Computer Vision Applications
+What I Work On:<br>Web Development: React, Node.js, Express, Prisma, PostgreSQL<br>Blockchain & Web3: Solidity, Ether.js, Alchemy API<br>AI/ML: Python, OpenCV,  Langchain<br>Cloud Computing: AWS Certified Cloud Practitioner<br><br>Currently Exploring:<br>Federated Learning with blockchain <br>Smart Contracts & Decentralized Apps (DApps)<br>AI-driven Computer Vision Applications
 
 
 ## 🌐 Socials:
