@@ -13,12 +13,106 @@
 
 # 🚀 About Me
 
-- 💻 Full Stack Developer
-- 🤖 AI / LLM / Agent Engineering
-- 🌐 Web3 & Blockchain
-- ☁️ AWS Certified Cloud Practitioner
-- 🎯 Always learning new technologies
+I'm **Nikhil Sai Manam**, a **Computer Science & Engineering student at Bennett University** and an **expected 2027 graduate**. I'm passionate about building scalable software, AI-powered applications, and developer tools that solve real-world problems.
 
+Over the past few years, I've been exploring the intersection of **Artificial Intelligence, Full-Stack Development, Blockchain, and Cloud Computing**, with a strong focus on creating practical, production-ready applications.
+
+Currently, I'm working on:
+- 🤖 AI Agents, LLM applications, and autonomous workflows
+- 🌐 Full-Stack web applications using modern JavaScript frameworks
+- 🧠 Computer Vision and AI-powered automation
+- 🔗 Blockchain, Smart Contracts, and Web3 applications
+- ☁️ Cloud-native applications and scalable backend architectures
+- ⚡ Open-source projects and developer productivity tools
+
+I'm always eager to learn new technologies, contribute to open source, and build products that have a meaningful impact.
+
+---
+
+# 🎓 Education
+
+**Bennett University**  
+**Bachelor of Technology (B.Tech) — Computer Science & Engineering**  
+**Expected Graduation: 2027**
+
+---
+
+# 💻 Technical Skills
+
+### 👨‍💻 Programming Languages
+- C++
+- Python
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- SQL
+
+### 🎨 Frontend Development
+- React.js
+- Next.js
+- Tailwind CSS
+- Bootstrap
+- Responsive Web Design
+
+### ⚙️ Backend Development
+- Node.js
+- Express.js
+- Django
+- REST APIs
+- Authentication (JWT)
+
+### 🤖 Artificial Intelligence & Machine Learning
+- LangChain
+- OpenCV
+- TensorFlow
+- Computer Vision
+- AI Agents
+- LLM Applications
+- Prompt Engineering
+- RAG (Retrieval-Augmented Generation)
+
+### 🔗 Blockchain & Web3
+- Solidity
+- Ethers.js
+- Smart Contracts
+- DApps
+- Alchemy API
+
+### 🗄️ Databases
+- PostgreSQL
+- MongoDB
+- MySQL
+- Redis
+- Prisma ORM
+
+### ☁️ Cloud & DevOps
+- AWS (Certified Cloud Practitioner)
+- Docker
+- Git
+- GitHub
+- GitHub Actions
+- Linux
+
+### 🛠️ Developer Tools
+- VS Code
+- Postman
+- Figma
+- Arduino
+- GitHub Copilot
+- npm
+- Vite
+
+### 📚 Areas of Interest
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- Agentic AI
+- Computer Vision
+- Full-Stack Development
+- Cloud Computing
+- Blockchain
+- Open Source
+- System Design
 ---
 
 # 🌐 Connect
