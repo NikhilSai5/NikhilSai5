@@ -118,9 +118,10 @@ I'm always eager to learn new technologies, contribute to open source, and build
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-sai-manam/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ghost056)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/nikhilsaimanam5/)
-[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/nikhi23501)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/nikhil05606/)
 
 </p>
 
@@ -179,15 +180,6 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 ---
 
-# 🎧 Spotify (Optional)
-
-> Enable after creating a Spotify Now Playing workflow.
-
-```md
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)
-```
-
----
 
 # ⌨️ WakaTime
 
