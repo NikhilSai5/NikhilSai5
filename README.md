@@ -168,13 +168,8 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 # 🏅 Competitive Programming
 
-<p align="center">
 
-[![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=Ghost056)](https://codeforces.com/profile/Ghost056)
 
-</p>
-
-> Replace the LeetCode URL below with your username.
 
 <p align="center">
 
