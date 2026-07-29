@@ -39,15 +39,9 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 # ⚡ Tech Arsenal
 
-<div align="center">
-
-*"Turning ideas into scalable software, AI systems, and developer tools."*
-
-</div>
-
 ---
 
-## 👨‍💻 Languages
+#### 👨‍💻 Languages
 
 <p>
 
