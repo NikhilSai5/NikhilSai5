@@ -126,6 +126,9 @@ I'm always eager to learn new technologies, contribute to open source, and build
 </p>
 
 ---
+
+
+# 🏅 Competitive Programming
 <p align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/nikhilsaimanam5?theme=dark&font=Karma)](https://leetcode.com/u/nikhilsaimanam5/)
@@ -174,7 +177,6 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 ---
 
-# 🏅 Competitive Programming
 
 
 
