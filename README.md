@@ -39,79 +39,139 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 # 💻 Technical Skills
 
-### 👨‍💻 Programming Languages
-- C++
-- Python
-- JavaScript
-- TypeScript
-- Java
-- SQL
+<details open>
+<summary><b>👨‍💻 Programming Languages</b></summary>
 
-### 🎨 Frontend Development
-- React.js
-- Next.js
-- Tailwind CSS
-- Bootstrap
-- Responsive Web Design
-- React three fiber
-- Three.js
+<br>
 
-### ⚙️ Backend Development
-- Node.js
-- Express.js
-- Django
-- REST APIs
-- Authentication (JWT)
+| Languages |
+|------------|
+| 🟦 C++ |
+| 🐍 Python |
+| ☕ Java |
+| 🟨 JavaScript |
+| 🔷 TypeScript |
+| 🗄️ SQL |
 
-### 🤖 Artificial Intelligence & Machine Learning
-- LangChain
-- LangGraph
-- OpenCV
-- TensorFlow
-- Computer Vision
-- AI Agents
-- LLM Applications
-- Prompt Engineering
-- RAG (Retrieval-Augmented Generation)
+</details>
 
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
 
-### 🗄️ Databases
-- PostgreSQL
-- MongoDB
-- MySQL
-- Redis
-- Prisma ORM
-- Vector databases like PGvector and Pinecone
+<br>
 
-### ☁️ Cloud & DevOps
-- AWS (Certified Cloud Practitioner)
-- Docker
-- Git
-- GitHub
-- GitHub Actions
-- Linux
+- ⚛️ React.js
+- ▲ Next.js
+- 🎨 Tailwind CSS
+- 🅱️ Bootstrap
+- 🌐 Responsive Web Design
+- 🎮 React Three Fiber (R3F)
+- 🧊 Three.js
 
-### 🛠️ Developer Tools
-- VS Code
-- Postman
-- Figma
-- Arduino
-- GitHub Copilot
-- npm
-- Vite
-- OpenCode
+</details>
 
-### 📚 Areas of Interest
-- Artificial Intelligence
-- Large Language Models (LLMs)
-- Agentic AI
-- Computer Vision
-- Full-Stack Development
-- Cloud Computing
-- Blockchain
-- Open Source
-- System Design
----
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+
+<br>
+
+- 🟢 Node.js
+- 🚂 Express.js
+- 🎯 Django
+- 🔌 REST APIs
+- 🔐 Authentication (JWT)
+- 📦 API Integrations
+- ⚡ Scalable Backend Architectures
+
+</details>
+
+<details open>
+<summary><b>🤖 Artificial Intelligence & Machine Learning</b></summary>
+
+<br>
+
+- 🧠 AI Agents
+- 🤖 Large Language Models (LLMs)
+- 🔗 LangChain
+- 🕸️ LangGraph
+- 👁️ OpenCV
+- 📊 TensorFlow
+- 🧩 Prompt Engineering
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🔍 Semantic Search
+- 🗂️ Embeddings & Vector Search
+- 🤝 Multi-Agent Systems
+- 🎙️ AI Voice Agents
+- 🧠 Computer Vision
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Storage</b></summary>
+
+<br>
+
+- 🐘 PostgreSQL
+- 🍃 MongoDB
+- 🐬 MySQL
+- ⚡ Redis
+- 🔷 Prisma ORM
+- 📦 PGVector
+- 🌲 Pinecone
+- 🧠 Vector Databases
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+
+<br>
+
+- ☁️ AWS (Certified Cloud Practitioner)
+- 🐳 Docker
+- 🐧 Linux
+- 🌿 Git
+- 🐙 GitHub
+- ⚙️ GitHub Actions
+- 🚀 CI/CD Workflows
+
+</details>
+
+<details open>
+<summary><b>🛠️ Developer Tools</b></summary>
+
+<br>
+
+- 💻 Visual Studio Code
+- 📬 Postman
+- 🎨 Figma
+- 🤖 Arduino
+- ✨ GitHub Copilot
+- 📦 npm
+- ⚡ Vite
+- 🧩 OpenCode
+
+</details>
+
+<details open>
+<summary><b>📚 Areas of Interest</b></summary>
+
+<br>
+
+- 🤖 Artificial Intelligence
+- 🧠 Large Language Models (LLMs)
+- ⚡ Agentic AI
+- 👁️ Computer Vision
+- 🌐 Full-Stack Development
+- ☁️ Cloud Computing
+- 🔗 Blockchain & Web3
+- 📖 Open Source
+- 🏗️ System Design
+- 🚀 Scalable Distributed Systems
+- 🧩 Developer Tools
+- 🔍 Information Retrieval & RAG
+
+</details>
 
 # 🌐 Connect
 
