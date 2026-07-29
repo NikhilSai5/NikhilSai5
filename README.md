@@ -1,31 +1,51 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Nikhil+Sai+%F0%9F%91%8B;Full-Stack+%26+Web3+Developer;AI%2FML+and+Computer+Vision+Explorer;AWS+Certified+Cloud+Practitioner;Building+cool+things%2C+one+commit+at+a+time)](https://github.com/DenverCoder1/readme-typing-svg)
+# Hi there, I'm Nikhil Sai 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%7C+ML+Explorer;Blockchain+Developer;AWS+Certified+Cloud+Practitioner;Building+cool+things+one+commit+at+a+time)](https://github.com/DenverCoder1/readme-typing-svg)
 
 </div>
 
-## 💫 About Me
+---
 
-### 🚀 What I Work On
-- 🌐 **Web Development:** React, Node.js, Express, Prisma, PostgreSQL
-- ⛓️ **Blockchain & Web3:** Solidity, Ethers.js, Alchemy API
-- 🤖 **AI/ML:** Python, OpenCV, LangChain
-- ☁️ **Cloud Computing:** AWS Certified Cloud Practitioner
+# 💫 About Me
 
-### 🔭 Currently Exploring
-- 🔗 Federated Learning with Blockchain
-- 📜 Smart Contracts & Decentralized Apps (DApps)
-- 👁️ AI-driven Computer Vision Applications
+🚀 Passionate Full Stack Developer and AI enthusiast.
 
-## 🌐 Connect with Me
+### 💻 Currently Working With
+
+- React
+- Next.js
+- Node.js
+- Express
+- PostgreSQL
+- Prisma
+
+### 🤖 Currently Learning
+
+- AI Agents
+- Computer Vision
+- Blockchain
+- LangChain
+- Federated Learning
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-sai-manam/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29412577/nikhil-sai-manam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nikhi23501) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/nikhil_sai_40a3a8682affa6) [![Codeforces](https://img.shields.io/badge/Codeforces-%23150458.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ghost056)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-sai-manam/)
+[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/nikhi23501)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/29412577/nikhil-sai-manam)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ghost056)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?logo=devdotto&logoColor=white)](https://dev.to/nikhil_sai_40a3a8682affa6)
 
 </div>
 
-## 💻 Tech Stack
+---
+
+# 💻 Tech Stack
 
 <div align="center">
 
@@ -33,75 +53,74 @@
 
 </div>
 
-<details>
-<summary>📋 Full breakdown by category</summary>
-<br>
+---
 
-**Languages**  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-
-**Frontend & Frameworks**  
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend, Web3 & APIs**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-
-**AI/ML & Data**  
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-
-**Databases**  
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-
-**Cloud, DevOps & Tools**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-
-**Game Dev APIs**  
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat-square&logo=riotgames&logoColor=white)
-
-</details>
-
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilSai5&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=NikhilSai5&theme=dark&hide_border=false)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NikhilSai5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilSai5&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilSai5&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img src="https://streak-stats.demolab.com?user=NikhilSai5&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NikhilSai5&theme=tokyo-night&hide_border=true)](https://github.com/NikhilSai5)
 
 </div>
 
-### 🐍 Contribution Snake
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NikhilSai5/NikhilSai5/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NikhilSai5/NikhilSai5/output/github-contribution-grid-snake.svg" />
-  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/NikhilSai5/NikhilSai5/output/github-contribution-grid-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/NikhilSai5/NikhilSai5/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/NikhilSai5/NikhilSai5/output/github-contribution-grid-snake.svg">
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/NikhilSai5/NikhilSai5/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
-> ⚙️ Needs a one-time setup — see **`snake.yml`** (provided alongside this file) and the notes below.
+---
 
-### 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=NikhilSai5&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=NikhilSai5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
 
 </div>
 
-### 🔝 Top Contributed Repo
+---
 
-![](https://github-contributor-stats.vercel.app/api?username=NikhilSai5&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 📦 Top Contributed Repositories
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=NikhilSai5&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</div>
 
 ---
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=NikhilSai5&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=NikhilSai5&icon=5&color=12)
 
 </div>
