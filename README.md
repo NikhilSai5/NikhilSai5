@@ -119,7 +119,7 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-sai-manam/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ghost056)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/nikhilsaimanam5/)
 [![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/nikhi23501)
 
 </p>
@@ -173,7 +173,7 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 <p align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nikhilsaimanam5?theme=dark&font=Karma)](https://leetcode.com/u/nikhilsaimanam5/)
 
 </p>
 
@@ -189,14 +189,11 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 ---
 
-# ⌨️ WakaTime (Optional)
+# ⌨️ WakaTime
 
-> Enable after connecting WakaTime.
-
-```md
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-```
+<p align="center">
+  <figure><embed src="https://wakatime.com/share/@9b2ad481-1fb9-4294-9455-a05fbf9188f9/9da2bd62-02b4-479b-b9fb-1979bc2b37ca.svg"></embed></figure>
+</p>
 
 ---
 
