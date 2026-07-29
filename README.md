@@ -181,23 +181,7 @@ I'm always eager to learn new technologies, contribute to open source, and build
 ---
 
 
-# ⌨️ WakaTime
 
-<p align="center">
-  <figure><embed src="https://wakatime.com/share/@9b2ad481-1fb9-4294-9455-a05fbf9188f9/9da2bd62-02b4-479b-b9fb-1979bc2b37ca.svg"></embed></figure>
-</p>
-
----
-
-# 👀 Visitor Counter
-
-<p align="center">
-
-![](https://visitcount.itsvg.in/api?id=NikhilSai5&icon=5&color=6)
-
-</p>
-
----
 
 <div align="center">
 
