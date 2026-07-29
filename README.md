@@ -37,11 +37,26 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 ---
 
-# ⚡ Tech Arsenal
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NikhilSai5/NikhilSai5/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NikhilSai5/NikhilSai5/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/NikhilSai5/NikhilSai5/output/github-contribution-grid-snake.svg">
+</picture>
+
+</p>
 
 ---
 
-#### 👨‍💻 Languages
+
+# ⚡ Tech Arsenal
+
+
+
+### 👨‍💻 Languages
 
 <p>
 
@@ -56,7 +71,7 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 ---
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 <table>
 <tr>
@@ -84,7 +99,7 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 ---
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 <table>
 <tr>
@@ -108,7 +123,7 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 ---
 
-## 🤖 AI Engineering
+### 🤖 AI Engineering
 
 | AI & LLMs | Computer Vision | Agentic AI |
 |-----------|-----------------|------------|
@@ -120,7 +135,7 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 ---
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 <div align="center">
 
@@ -134,7 +149,7 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 ---
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 | ☁️ Cloud | 🚀 DevOps |
 |-----------|-----------|
@@ -145,7 +160,7 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 ---
 
-## 🛠 Developer Toolkit
+### 🛠 Developer Toolkit
 
 <div align="center">
 
@@ -157,29 +172,37 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 ---
 
-## 🚀 Interests
+### 🚀 Interests
 
-<div align="center">
+```java
+public final class NikhilSai {
 
-```text
-🤖 Artificial Intelligence
-⚡ Agentic AI
-🧠 Large Language Models (LLMs)
+    private final String name = "Nikhil Sai";
+    private final String university = "Bennett University";
+    private final int graduationYear = 2027;
 
-🌐 Full Stack Development
-👁️ Computer Vision
-🔗 Blockchain & Web3
+    private final String[] passions = {
+        "🤖 Artificial Intelligence",
+        "⚡ Agentic AI",
+        "🧠 Large Language Models",
+        "🌐 Full Stack Development",
+        "👁️ Computer Vision",
+        "🔗 Blockchain & Web3",
+        "☁️ Cloud Computing",
+        "🏗️ System Design",
+        "📖 Open Source",
+        "🚀 Developer Tools",
+        "🔍 Information Retrieval",
+        "📦 Scalable Distributed Systems"
+    };
 
-☁️ Cloud Computing
-🏗️ System Design
-📖 Open Source
-
-🚀 Developer Tools
-🔍 Information Retrieval
-📦 Scalable Distributed Systems
+    public void buildTheFuture() {
+        for (String passion : passions) {
+            System.out.println("Currently exploring: " + passion);
+        }
+    }
+}
 ```
-
-</div>
 
 ---
 
@@ -239,17 +262,6 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NikhilSai5/NikhilSai5/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NikhilSai5/NikhilSai5/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/NikhilSai5/NikhilSai5/output/github-contribution-grid-snake.svg">
-</picture>
-
-</p>
 
 ---
 
