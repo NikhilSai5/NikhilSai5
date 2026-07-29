@@ -44,8 +44,7 @@ I'm always eager to learn new technologies, contribute to open source, and build
 - Python
 - JavaScript
 - TypeScript
-- HTML5
-- CSS3
+- Java
 - SQL
 
 ### 🎨 Frontend Development
@@ -54,6 +53,8 @@ I'm always eager to learn new technologies, contribute to open source, and build
 - Tailwind CSS
 - Bootstrap
 - Responsive Web Design
+- React three fiber
+- Three.js
 
 ### ⚙️ Backend Development
 - Node.js
@@ -64,6 +65,7 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 ### 🤖 Artificial Intelligence & Machine Learning
 - LangChain
+- LangGraph
 - OpenCV
 - TensorFlow
 - Computer Vision
@@ -72,12 +74,6 @@ I'm always eager to learn new technologies, contribute to open source, and build
 - Prompt Engineering
 - RAG (Retrieval-Augmented Generation)
 
-### 🔗 Blockchain & Web3
-- Solidity
-- Ethers.js
-- Smart Contracts
-- DApps
-- Alchemy API
 
 ### 🗄️ Databases
 - PostgreSQL
@@ -85,6 +81,7 @@ I'm always eager to learn new technologies, contribute to open source, and build
 - MySQL
 - Redis
 - Prisma ORM
+- Vector databases like PGvector and Pinecone
 
 ### ☁️ Cloud & DevOps
 - AWS (Certified Cloud Practitioner)
@@ -102,6 +99,7 @@ I'm always eager to learn new technologies, contribute to open source, and build
 - GitHub Copilot
 - npm
 - Vite
+- OpenCode
 
 ### 📚 Areas of Interest
 - Artificial Intelligence
