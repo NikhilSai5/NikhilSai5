@@ -37,141 +37,163 @@ I'm always eager to learn new technologies, contribute to open source, and build
 
 ---
 
-# 💻 Technical Skills
+# ⚡ Tech Arsenal
 
-<details open>
-<summary><b>👨‍💻 Programming Languages</b></summary>
+<div align="center">
 
-<br>
+*"Turning ideas into scalable software, AI systems, and developer tools."*
 
-| Languages |
-|------------|
-| 🟦 C++ |
-| 🐍 Python |
-| ☕ Java |
-| 🟨 JavaScript |
-| 🔷 TypeScript |
-| 🗄️ SQL |
+</div>
 
-</details>
+---
 
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
+## 👨‍💻 Languages
 
-<br>
+<p>
 
-- ⚛️ React.js
-- ▲ Next.js
-- 🎨 Tailwind CSS
-- 🅱️ Bootstrap
-- 🌐 Responsive Web Design
-- 🎮 React Three Fiber (R3F)
-- 🧊 Three.js
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</details>
+</p>
 
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
+---
 
-<br>
+## 🎨 Frontend
 
-- 🟢 Node.js
-- 🚂 Express.js
-- 🎯 Django
-- 🔌 REST APIs
-- 🔐 Authentication (JWT)
-- 📦 API Integrations
-- ⚡ Scalable Backend Architectures
+<table>
+<tr>
+<td width="50%">
 
-</details>
+### ⚛️ Frameworks
+- React.js
+- Next.js
+- React Three Fiber
+- Three.js
 
-<details open>
-<summary><b>🤖 Artificial Intelligence & Machine Learning</b></summary>
+</td>
 
-<br>
+<td width="50%">
 
-- 🧠 AI Agents
-- 🤖 Large Language Models (LLMs)
-- 🔗 LangChain
-- 🕸️ LangGraph
-- 👁️ OpenCV
-- 📊 TensorFlow
-- 🧩 Prompt Engineering
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🔍 Semantic Search
-- 🗂️ Embeddings & Vector Search
-- 🤝 Multi-Agent Systems
-- 🎙️ AI Voice Agents
-- 🧠 Computer Vision
+### 🎨 Styling
+- Tailwind CSS
+- Bootstrap
+- Responsive Design
+- Modern UI/UX
 
-</details>
+</td>
+</tr>
+</table>
 
-<details open>
-<summary><b>🗄️ Databases & Storage</b></summary>
+---
 
-<br>
+## ⚙️ Backend
 
-- 🐘 PostgreSQL
-- 🍃 MongoDB
-- 🐬 MySQL
-- ⚡ Redis
-- 🔷 Prisma ORM
-- 📦 PGVector
-- 🌲 Pinecone
-- 🧠 Vector Databases
+<table>
+<tr>
+<td>
 
-</details>
+🟢 Node.js
 
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+🚂 Express.js
 
-<br>
+🎯 Django
 
-- ☁️ AWS (Certified Cloud Practitioner)
-- 🐳 Docker
-- 🐧 Linux
-- 🌿 Git
-- 🐙 GitHub
-- ⚙️ GitHub Actions
-- 🚀 CI/CD Workflows
+🔌 REST APIs
 
-</details>
+🔐 JWT Authentication
 
-<details open>
-<summary><b>🛠️ Developer Tools</b></summary>
+⚡ Scalable Backend Systems
 
-<br>
+</td>
+</tr>
+</table>
 
-- 💻 Visual Studio Code
-- 📬 Postman
-- 🎨 Figma
-- 🤖 Arduino
-- ✨ GitHub Copilot
-- 📦 npm
-- ⚡ Vite
-- 🧩 OpenCode
+---
 
-</details>
+## 🤖 AI Engineering
 
-<details open>
-<summary><b>📚 Areas of Interest</b></summary>
+| AI & LLMs | Computer Vision | Agentic AI |
+|-----------|-----------------|------------|
+| LangChain | OpenCV | AI Agents |
+| LangGraph | TensorFlow | Multi-Agent Systems |
+| Prompt Engineering | Image Processing | Voice Agents |
+| RAG | Deep Learning | LLM Applications |
+| Vector Search | Embeddings | Semantic Search |
 
-<br>
+---
 
-- 🤖 Artificial Intelligence
-- 🧠 Large Language Models (LLMs)
-- ⚡ Agentic AI
-- 👁️ Computer Vision
-- 🌐 Full-Stack Development
-- ☁️ Cloud Computing
-- 🔗 Blockchain & Web3
-- 📖 Open Source
-- 🏗️ System Design
-- 🚀 Scalable Distributed Systems
-- 🧩 Developer Tools
-- 🔍 Information Retrieval & RAG
+## 🗄️ Databases
 
-</details>
+<div align="center">
+
+🐘 **PostgreSQL** • 🍃 **MongoDB** • 🐬 **MySQL** • ⚡ **Redis**
+
+🔷 **Prisma ORM**
+
+🧠 **PGVector** • 🌲 **Pinecone**
+
+</div>
+
+---
+
+## ☁️ Cloud & DevOps
+
+| ☁️ Cloud | 🚀 DevOps |
+|-----------|-----------|
+| AWS Certified Cloud Practitioner | Docker |
+| Linux | Git |
+| GitHub | GitHub Actions |
+| CI/CD | Deployment Pipelines |
+
+---
+
+## 🛠 Developer Toolkit
+
+<div align="center">
+
+💻 VS Code • 📬 Postman • 🎨 Figma • 🤖 Arduino
+
+⚡ Vite • 📦 npm • 🧩 OpenCode • 🤖 GitHub Copilot
+
+</div>
+
+---
+
+## 🚀 Interests
+
+<div align="center">
+
+```text
+🤖 Artificial Intelligence
+⚡ Agentic AI
+🧠 Large Language Models (LLMs)
+
+🌐 Full Stack Development
+👁️ Computer Vision
+🔗 Blockchain & Web3
+
+☁️ Cloud Computing
+🏗️ System Design
+📖 Open Source
+
+🚀 Developer Tools
+🔍 Information Retrieval
+📦 Scalable Distributed Systems
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"I enjoy building AI-powered products, scalable backend systems, and intuitive user experiences that solve real-world problems."*
+
+</div>
 
 # 🌐 Connect
 
